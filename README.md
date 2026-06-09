@@ -22,12 +22,18 @@ Trained ML models for high accuracy classification
 
 Strengthened skills in image preprocessing & model evaluation
 
-**Key Takeaways:**
 
-Built end-to-end ML pipelines
+## 3 📩 SMS Spam Classifier using SVM
 
-Hands-on experience with Streamlit apps
+A machine learning project that classifies SMS messages as **Spam** or **Ham (Not Spam)** using the **Support Vector Machine (SVM)** algorithm.
 
-Improved problem-solving & coding discipline 💡🐍
+## Key Features
+- Spam and Ham message classification
+- Text preprocessing and feature extraction using TF-IDF
 
-This internship will help to learn new and advance ML algorithms and to work on real projects.
+## Model Information
+- **Algorithm:** Support Vector Machine (SVM)
+- **Feature Extraction:** TF-IDF Vectorization
+- **Task:** Binary Text Classification (Spam vs Ham)
+
+
