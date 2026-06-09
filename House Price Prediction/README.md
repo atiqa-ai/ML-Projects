@@ -15,4 +15,4 @@ The model is trained on the Boston Housing dataset to learn relationships betwee
 - **Input:** Housing features (e.g., rooms, area, location-related attributes)
 - **Output:** Predicted house price
 
-## Model Accuracy:
+## Model Accuracy: 71%
