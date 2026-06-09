@@ -1,0 +1,7 @@
+ Library Requirements for this code are 
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
