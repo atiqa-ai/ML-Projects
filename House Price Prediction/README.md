@@ -1,4 +1,4 @@
-🏠 Boston House Price Prediction
+## 🏠 Boston House Price Prediction
 
 A machine learning project that predicts residential property prices using the Linear Regression algorithm.
 The model is trained on the Boston Housing dataset to learn relationships between housing features and market value.
