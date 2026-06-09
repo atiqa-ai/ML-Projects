@@ -1,6 +1,6 @@
-# 📂 Internship Python Projects – @Arch Technologies
 
-During my internship at @Arch Technologies, I have worked on practical Python & Machine Learning projects to strengthen my real-world coding skills.
+Classification models classify data into binary or multi classes. Different ML Models are used to train and test data for classification.
+
 
 ## 1️⃣ Email Spam Classifier 📨
 
